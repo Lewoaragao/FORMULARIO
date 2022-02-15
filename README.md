@@ -1,1 +1,1 @@
-Vários tipos de formulários: inscrição, contato, mensagem e login.
+Vários tipos de formulários: inscrição, contato, mensagem e login, todos responsivos.
